@@ -1,0 +1,11 @@
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\bin\Debug\netcoreapp2.2\Blockchain.deps.json
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\bin\Debug\netcoreapp2.2\Blockchain.runtimeconfig.json
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\bin\Debug\netcoreapp2.2\Blockchain.runtimeconfig.dev.json
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\bin\Debug\netcoreapp2.2\Blockchain.dll
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\bin\Debug\netcoreapp2.2\Blockchain.pdb
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.csprojAssemblyReference.cache
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.AssemblyInfoInputs.cache
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.AssemblyInfo.cs
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.dll
+C:\Users\Matheus Pellisoli\source\repos\Blockchain\Blockchain\obj\Debug\netcoreapp2.2\Blockchain.pdb
